@@ -1,0 +1,25 @@
+{
+  "name": "jsfootermodule",
+  "version": "0.1.0",
+  "description": "\"javascript footer module that will update year and company name dynamically\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annelisepre/annelisepre-jsfootermodule.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Annelise <ajunepre@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/annelisepre/annelisepre-jsfootermodule/issues"
+  },
+  "homepage": "https://github.com/annelisepre/annelisepre-jsfootermodule#readme",
+  "dependencies": {
+    "moment": "^2.23.0"
+  }
+}
